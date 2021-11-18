@@ -13,7 +13,7 @@ export default function Testimonials()
             Some Work I've Done
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here are a few projects I've worked on!
+            Here are a few projects I've worked on: <br /> (Not including the website I built that you're on right now!)
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
