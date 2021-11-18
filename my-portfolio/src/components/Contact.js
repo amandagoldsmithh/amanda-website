@@ -39,7 +39,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=1029+NE+70th+Street+Seattle+WA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed/v1/place?q=seattle+washington&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/3 px-6">
@@ -47,8 +47,8 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1 text-gray-50">
-                1029 NE 70th St. <br />
-                Seattle, WA. 98115
+                Seattle, WA. <br />
+                98115
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
