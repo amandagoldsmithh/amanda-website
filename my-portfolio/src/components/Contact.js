@@ -56,12 +56,12 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-teal-600 leading-relaxed">
-                amandajgoldsmith@gmail.com
+                Fill out the form to reach my email!
               </a>
               <h2 className="title-font font-semibold text-gray-50 tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed text-gray-50">512-484-1576</p>
+              <p className="leading-relaxed text-gray-50">I was told not to put my phone on the internet. Just fill out the form to my right to reach me! </p>
             </div>
           </div>
         </div>
