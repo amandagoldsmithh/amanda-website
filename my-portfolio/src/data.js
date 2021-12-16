@@ -45,9 +45,16 @@ export const testimonials = [
   title: "User Research",
   subtitle: "Girl Gamer Community",
   image: "./stars.svg",
-  description: "Here is a Systems Diagram representing University of Washington Girl Gamers and their influences in their gaming environment. This is just a part of the full project showcasing the community I used to identify a point of intervention where me and a team created a prototype to help support this community. I relate very closely to these girls' experiences and am glad I got the chance to dive deeper into this research area.",
-  link: "./system.pdf",
+  description: "Here is a UX project representing University of Washington Girl Gamers and their influences in their gaming environment. This user research lead to a prototype intervention to help support this community. I relate very closely to these girls' experiences and am glad I got the chance to dive deeper into this research area.",
+  link: "./GGE.pdf",
   },
+  {
+    title: "Space Needle Project",
+    subtitle: "OnShape Tutorial",
+    image: "./seattle.svg",
+    description:" Have you ever been like: 'hmm I really want to be able to build a replica of the Space Needle using CAD?' Well then say no more, because right here is a 30 page long tutorial from start to finish that guides you through every step to create your very own Space Needle in OnShape that even the most unexerpeiced CAD user can follow. I wrote this for a class I helped develop at UW and put a lot of work into it. ",
+    link: "./SpaceNeedle.pdf",
+    },
 ];
 
 export const skills = [
@@ -55,6 +62,6 @@ export const skills = [
   "Experience in UX Design",
   "Proficient in Microsoft Office Suite",
   "Extensive Writing Abilities",
-  "Basic Experience in Tableu and SQL",
+  "Basic Experience in Tableu and OnShape",
   "Vast Knowledge about Gaming Industry",
 ];
