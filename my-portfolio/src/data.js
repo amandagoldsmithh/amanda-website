@@ -55,11 +55,18 @@ export const testimonials = [
     description:" Have you ever been like: 'hmm I really want to be able to build a replica of the Space Needle using CAD?' Well then say no more, because right here is a 30 page long tutorial from start to finish that guides you through every step to create your very own Space Needle in OnShape that even the most unexerpeiced CAD user can follow. I wrote this for a class I helped develop at UW and put a lot of work into it. ",
     link: "./SpaceNeedle.pdf",
     },
+    {
+      title: "Girl Gamer Flow",
+      subtitle: "Wireframing",
+      image: "./proto.svg",
+      description:" Here is a better quality pdf of the wireframing I did for my community research regarding the UW girl gamer experience. Multuiple iterations through user research and persona building lead me to this final flow.",
+      link: "./system.pdf",
+      },
 ];
 
 export const skills = [
-  "Basic Experience in React and Javascript",
-  "Experience in UX Design",
+  "Basic Experience in React and Javascript as well as Figma and Adobe Creative Suite (XD, Illustrator, Spark)",
+"Experience in UX Design (wireframing, prototyping, user reaserch)",
   "Proficient in Microsoft Office Suite",
   "Extensive Writing Abilities",
   "Basic Experience in Tableu and OnShape",
