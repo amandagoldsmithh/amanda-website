@@ -35,12 +35,13 @@ export const projects = [
 
 export const testimonials = [
   {
-    title: "Industry Report",
-    subtitle: "Gaming Industry",
-    image: "./gmgind.svg",
-    description: "Here is a powerpoint presentation of a gaming industry report I created for one of my classes. It showcases an overview of the gaming industry, where it has been and where it is projected to go. As well as highlighting some potential issues in the industry and my proposed Information Management solutions.",
-    link: "./GIR.pdf",
+    title: "Tableau Visualization",
+    subtitle: "Nintendo Switch Sales",
+    image: "./viz.svg",
+    description:"Here is a data visualization created using an old Makeover Monday dataset. The switch was created in Illustrator and visualization was made in Tableau.",
+    link: "https://public.tableau.com/views/NintendoSwitchSales_16444429969100/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link",
   },
+  
   {
   title: "User Research",
   subtitle: "Girl Gamer Community",
@@ -62,13 +63,20 @@ export const testimonials = [
       description:" Here is a better quality pdf of the wireframing I did for my community research regarding the UW girl gamer experience. Multuiple iterations through user research and persona building lead me to this final flow.",
       link: "./system.pdf",
       },
-      {
-        title: "Space Needle Project",
-        subtitle: "OnShape Tutorial",
-        image: "./seattle.svg",
-        description:" Have you ever been like: 'hmm I really want to be able to build a replica of the Space Needle using CAD?' Well then say no more, because right here is a 30 page long tutorial from start to finish that guides you through every step to create your very own Space Needle in OnShape that even the most unexerpeiced CAD user can follow. I wrote this for a class I helped develop at UW and put a lot of work into it. ",
-        link: "./SpaceNeedle.pdf",
-        },
+     {
+       title: "Space Needle Project",
+       subtitle: "OnShape Tutorial",
+       image: "./seattle.svg",
+       description:" Have you ever been like: 'hmm I really want to be able to build a replica of the Space Needle using CAD?' Well then say no more, because right here is a 30 page long tutorial from start to finish that guides you through every step to create your very own Space Needle in OnShape that even the most unexerpeiced CAD user can follow. I wrote this for a class I helped develop at UW and put a lot of work into it. ",
+       link: "./SpaceNeedle.pdf",
+     },
+     {
+       title: "Industry Report",
+       subtitle: "Gaming Industry",
+       image: "./gmgind.svg",
+       description: "Here is a powerpoint presentation of a gaming industry report I created for one of my classes. It showcases an overview of the gaming industry, where it has been and where it is projected to go. As well as highlighting some potential issues in the industry and my proposed Information Management solutions.",
+      link: "./GIR.pdf",
+     },
 ];
 
 export const skills = [
