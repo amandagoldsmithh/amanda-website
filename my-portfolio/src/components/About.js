@@ -15,12 +15,12 @@ export default function About() {
         </p>
         <div className="flex bg-white big-opacity-100 justify-center">
           <a
-            href="#contact"
+            href="#Contact"
             className="inline-flex-2 text-gray-100 bg-teal-600 border-0 py-2 px-6 focus:outline-none hover:bg-teal-800 rounded text-lg">
             Work With Me
           </a>
           <a
-            href="#projects"
+            href="#Projects"
             className="ml-4 inline-flex text-gray-100 bg-teal-600 border-0 py-2 px-6 focus:outline-none hover:bg-teal-800 hover:text-white rounded text-lg">
             See Some Things I've Done
           </a>
