@@ -5,7 +5,7 @@ export const projects = [
     description:
       "This link takes you to a pretty pdf of my resume that shows you how very qualified I am for whatever you might be considering me for.",
     image: "./resume1.svg",
-    link: "./Resume.pdf",
+    link: "./Resume211.pdf",
   },
   {
     title: "My Linked-In",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Click here to check out my linked-in profile and connect with me if you want!",
     image: "./linkedin.svg",
-    link: "https://www.linkedin.com/in/amandajgoldsmith2000/",
+    link: "https://www.linkedin.com/in/amandajgoldsmith",
   },
   {
     title: "LifeReimagined",
@@ -80,10 +80,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "Basic Experience in React and Javascript as well as Figma and Adobe Creative Suite (XD, Illustrator, Spark)",
+  "Basic Experience in React & Javascript as well as Figma and Adobe Creative Suite (XD, Illustrator, Spark)",
 "Experience in UX Design (wireframing, prototyping, user reaserch)",
   "Proficient in Microsoft Office Suite",
-  "Extensive Writing Abilities",
-  "Basic Experience in Tableu and OnShape",
+  "Extensive writing abilities in formal research settings",
+  " Experience in Tableu, Onshape and Atlas.ti",
   "Vast Knowledge about Gaming Industry",
 ];
